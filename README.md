@@ -5,4 +5,6 @@
 - Practice using git.
 - Have fun! 
 
-Update: Git is cool!
+Update: 
+* Git is cool!
+* Make more changes. Save more than you commit, commit more than you push.  
